@@ -167,3 +167,4 @@ __pycache__/
 *.py[cod]
 *.log
 .vscode/
+.idea/
